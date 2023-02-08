@@ -1,0 +1,15 @@
+/home/scarlettlynn/C#/AreaCalculator/bin/Debug/net6.0/AreaCalculator
+/home/scarlettlynn/C#/AreaCalculator/bin/Debug/net6.0/AreaCalculator.deps.json
+/home/scarlettlynn/C#/AreaCalculator/bin/Debug/net6.0/AreaCalculator.runtimeconfig.json
+/home/scarlettlynn/C#/AreaCalculator/bin/Debug/net6.0/AreaCalculator.dll
+/home/scarlettlynn/C#/AreaCalculator/bin/Debug/net6.0/AreaCalculator.pdb
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.csproj.AssemblyReference.cache
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.AssemblyInfoInputs.cache
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.AssemblyInfo.cs
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.csproj.CoreCompileInputs.cache
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.dll
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/refint/AreaCalculator.dll
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.pdb
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/AreaCalculator.genruntimeconfig.cache
+/home/scarlettlynn/C#/AreaCalculator/obj/Debug/net6.0/ref/AreaCalculator.dll
